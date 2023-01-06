@@ -50,6 +50,7 @@ class Tank:
 tank = Tank()
 
 
+
 while True:
     if tank.pabaiga() == 0:
         break
